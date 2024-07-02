@@ -1,0 +1,15 @@
+body{
+    background-color: black !important;
+    /* to override */
+}
+.dclock{
+color: white;
+font-size: 60px;
+display: flex;
+justify-content: space-between;
+/* to allign items  horizontally*/
+align-items: center;
+/* To allign items vertically center */
+height: 100vh;
+width: 100%;
+}
